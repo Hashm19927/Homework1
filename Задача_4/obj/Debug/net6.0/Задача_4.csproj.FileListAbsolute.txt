@@ -1,0 +1,15 @@
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ1\Задача_4\bin\Debug\net6.0\Задача_4.exe
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ1\Задача_4\bin\Debug\net6.0\Задача_4.deps.json
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ1\Задача_4\bin\Debug\net6.0\Задача_4.runtimeconfig.json
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ1\Задача_4\bin\Debug\net6.0\Задача_4.dll
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ1\Задача_4\bin\Debug\net6.0\Задача_4.pdb
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ1\Задача_4\obj\Debug\net6.0\Задача_4.csproj.AssemblyReference.cache
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ1\Задача_4\obj\Debug\net6.0\Задача_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ1\Задача_4\obj\Debug\net6.0\Задача_4.AssemblyInfoInputs.cache
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ1\Задача_4\obj\Debug\net6.0\Задача_4.AssemblyInfo.cs
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ1\Задача_4\obj\Debug\net6.0\Задача_4.csproj.CoreCompileInputs.cache
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ1\Задача_4\obj\Debug\net6.0\Задача_4.dll
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ1\Задача_4\obj\Debug\net6.0\refint\Задача_4.dll
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ1\Задача_4\obj\Debug\net6.0\Задача_4.pdb
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ1\Задача_4\obj\Debug\net6.0\Задача_4.genruntimeconfig.cache
+C:\Users\Hashm\Desktop\Geekbrains\Семинары по C#\ДЗ1\Задача_4\obj\Debug\net6.0\ref\Задача_4.dll
